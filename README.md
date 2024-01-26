@@ -1,8 +1,6 @@
 <h1 align="left">Hello 👋, This is Kim Hyo Joong</h1>
 <h3 align="left">A passionate frontend developer from ROK.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkckdfb" alt="bkckdfb" /></a> </p>
-
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Spring, DataBase, Java, JavaScript, Python etc...**
 
 - 👯 I participated in a team project. For [CODDY](https://github.com/Afdddd/CodeBuddy)
