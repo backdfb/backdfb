@@ -29,3 +29,5 @@
 
 ![backdfb's GitHub stats](https://github-readme-stats.vercel.app/api?username=backdfb&theme=ambient_gradient&show_icons=true)
 
+![backdfb's GitHub stats](https://github-readme-stats.vercel.app/api?username=backdfb&theme=gotham&show_icons=true)
+
