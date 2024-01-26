@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bkckdfb&show_icons=true&locale=en" alt="[bkckdfb](https://github.com/backdfb)" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bkckdfb&" alt="bkckdfb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bkckdfb&" alt="backdfb" /></p>
