@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkckdfb" alt="bkckdfb" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Spring, DataBase etc...**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Spring, DataBase, Java, JavaScript, Python etc...**
 
 - 👯 I’m looking to collaborate on [CODDY](https://github.com/Afdddd/CodeBuddy)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://velog.io/@wva22lfr/posts](https://velog.io/@wva22lfr/posts)
 
-- 💬 Ask me about **Java, JavaScript, Python etc...**
+- 💬 Ask me about **My Code**
 
 - 📫 How to reach me **wva22lfr@gmail.com**
 
