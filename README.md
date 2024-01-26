@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Spring, DataBase, Java, JavaScript, Python etc...**
 
-- 👯 I’m looking to collaborate on [CODDY](https://github.com/Afdddd/CodeBuddy)
+- 👯 I participated in a team project. For [CODDY](https://github.com/Afdddd/CodeBuddy)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Afdddd/CodeBuddy](https://github.com/Afdddd/CodeBuddy)
 
