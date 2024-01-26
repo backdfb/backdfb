@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Afdddd/CodeBuddy](https://github.com/Afdddd/CodeBuddy)
 
-- 📝 I regularly write articles on <div align="left" style="text-align:center">
+- 📝 I regularly write articles on <div align="center" style="text-align:center">
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wva22lfr)](https://velog.io/@wva22lfr) 
 
