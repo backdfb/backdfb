@@ -9,8 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Afdddd/CodeBuddy](https://github.com/Afdddd/CodeBuddy)
 
-- 📝 I regularly write articles on my [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wva22lfr)](https://velog.io/@wva22lfr) 
-
+- 📝 I regularly write articles on my 👇
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wva22lfr)](https://velog.io/@wva22lfr) 
 
 - 💬 Ask me about **My Code**
 
