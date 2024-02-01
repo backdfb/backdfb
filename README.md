@@ -5,7 +5,7 @@
 
 - 👯 I participated in a team project. For [CODDY](https://github.com/Afdddd/CodeBuddy)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Afdddd/CodeBuddy](https://github.com/Afdddd/CodeBuddy)
+- 👨‍💻 All of my projects are available at Check My Repositories **https://github.com/backdfb?tab=repositories** 🕶️
 
 - 📝 I regularly write articles on my <br>
 👉 &nbsp; [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wva22lfr)](https://velog.io/@wva22lfr) 
@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **wva22lfr@gmail.com**
 
-- 🕶️ Check My Repositories **https://github.com/backdfb?tab=repositories**
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/backdfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="backdfb" height="30" width="40" /></a>
