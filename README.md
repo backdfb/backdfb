@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **My Code**
 
-- 📫 How to reach me **https://mail.google.com/wva22lfr** 🕶️
+- 📫 How to reach me **wva22lfr@gmail.com** 🕶️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
