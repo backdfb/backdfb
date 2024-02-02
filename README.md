@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **My Code**
 
-- 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wva22lfr@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+- 📫 How to reach me **https://gmail.com/wva22lfr** 🕶️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
