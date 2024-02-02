@@ -12,12 +12,11 @@
 
 - 💬 Ask me about **My Code**
 
-- 📫 How to reach me **wva22lfr@gmail.com**
+- 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wva22lfr@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/backdfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="backdfb" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wva22lfr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
