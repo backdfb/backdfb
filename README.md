@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋, This is Kim Hyo Joong</h1>
 <h3 align="left">A passionate frontend developer from ROK.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Spring, DataBase, Java, JavaScript, Python etc...**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Spring, DataBase, Java, JavaScript, React, Typescript, NodeJS, VanillaJS, Python etc...**
 
 - 👯 I participated in a team project. For [CODDY](https://github.com/Afdddd/CodeBuddy)
 
